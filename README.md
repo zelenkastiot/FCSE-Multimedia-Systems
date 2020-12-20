@@ -1,2 +1,3 @@
-# FCSE-MultimediaSystems
-Research for Multimedia Systems [Faculty of Computer Science and Engineering - Skopje, 2020]
+# Мултимедиски системи 
+
+**Зимски семестар, 2020** <br> <br>
